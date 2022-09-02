@@ -50,3 +50,5 @@ print(statistics.stdev([1, 3, 5, 2, 6, 7]))
 js_str = '{"name": "John", "age": "30"}'
 print(json.loads(js_str))
 print(json.dumps(json.loads(js_str)))
+
+print(math.pi)
