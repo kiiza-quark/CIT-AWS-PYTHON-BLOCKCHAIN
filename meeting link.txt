@@ -1,3 +1,6 @@
 https://us02web.zoom.us/j/88146966305?pwd=dmdLWVdDMGpqRUE2aW9SSUliS3FSQT09
 
 attendence: https://forms.gle/1ZFZ4wt32Y9zk8Vk6
+
+ https://stackoverflow.com/questions/419163/what-does-if-name-main-do
+
